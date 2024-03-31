@@ -1,3 +1,3 @@
 # React Component Library
 
-https://componentlibrarygf.netlify.app
+Live site: https://componentlibrarygf.netlify.app
